@@ -14,7 +14,7 @@ def hopper
         :known_for => "Unix",
         :languages => ["C"]
       }
-  #This method should return the value of the :grace_hopper key inside programmer_hash.  
+  #This method should return the value of the :grace_hopper key inside programmer_hash.
 	programmer_hash[:grace_hopper]
 }
 
